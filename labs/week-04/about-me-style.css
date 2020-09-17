@@ -1,0 +1,10 @@
+* {
+    font-family: sans-serif;
+    color: rgb(190, 13, 72); 
+}
+body {
+    background-color: #cccccc;
+}
+ul {
+    list-style-type: square;
+}
