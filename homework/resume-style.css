@@ -1,0 +1,29 @@
+header {
+    background-image: url(gradient_bg.png);
+    background-repeat: repeat-x;
+    border: 2px solid black;
+    padding: 5px;
+    font-family: 'Montserrat', Arial, sans-serif;
+}
+aside {
+    font-size: 14px;
+}
+body {
+    background-color: white;
+}
+section {
+    font-family: 'Nanum Gothic', Arial, sans-serif;
+    font-size: 13px; 
+    border: 2px solid black;
+    padding: 5px;
+    background-color: rgb(243, 243, 243)
+}
+footer {
+    font-size: 10px;
+}
+ul {
+    list-style-type: circle;
+}   
+h2, h3 {
+    line-height: 50%;
+}
